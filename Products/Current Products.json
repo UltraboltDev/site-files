@@ -1,0 +1,32 @@
+{
+  "brands": [
+    {
+      "id": "ultrabolt",
+      "name": "UltraBolt",
+      "products": [
+        {
+          "id": "weapon-powerpack",
+          "title": "Weapon PowerPack",
+          "price": 29.99,
+          "currency": "Dz",
+          "availableAmount": 12,
+          "shortDescription": "Advanced modular weapon system for FPS games.",
+          "longDescription": "Weapon PowerPack is a fully modular FPS weapon framework designed for Unity. It includes recoil systems, weapon sway, shooting modes, upgrade-ready architecture, and clean extensibility for custom weapons.",
+          "previewImages": [
+            "https://raw.githubusercontent.com/UltraboltDev/site-files/refs/heads/main/Products/Covers/Unity%20Lv1%20Book/view%201.png",
+            "https://raw.githubusercontent.com/UltraboltDev/site-files/refs/heads/main/Products/Covers/Unity%20Lv1%20Book/view%202.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fuji",
+      "name": "Fuji",
+      "products": [
+        {
+          
+        }
+      ]
+    }
+  ]
+}
