@@ -26,9 +26,9 @@
     "activation": true
   },
   {
-    "name": "تطوير الألعاب المتقدمة",
+    "name": "تطوير الألعاب المتقدمة OnDevelopment",
     "level": "متقدم",
-    "duration": "شهر",
+    "duration": "Unavailable",
     "hours": "Unavailable",
     "description": "تعلم كيفية البدء في جني المال من تطوير ألعابك أو العمل كمستقل",
     "icon": "DollarSign",
@@ -39,10 +39,10 @@
     "activation": false
   },
   {
-    "name": "الحصص الحضورية لتطوير الألعاب",
+    "name": "الحصص الحضورية لتطوير الألعاب OnDevelopment",
     "level": "جميع المستويات",
-    "duration": "قيد التحديد",
-    "hours": "قيد التحديد",
+    "duration": "Unavailable",
+    "hours": "Unavailable",
     "description": "حصص حضورية لتعلم تطوير الألعاب باستخدام Unity و C#، تُقام في بلدية السمار – الجزائر العاصمة. الحصص قيد التطوير حاليًا..",
     "icon": "Users",
     "color": "from-cyan-50 to-blue-50",
