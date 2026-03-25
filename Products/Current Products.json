@@ -3,21 +3,20 @@
     {
       "id": "ultrabolt",
       "name": "UltraBolt",
-      "products":  [
+      "products": [
         {
           "id": "nfc-tag",
           "title": "NFC Tag 215 Sticker",
           "price": 200,
-          "currency": "Dz",
+          "currency": "DZD",
           "availableAmount": 43,
           "shortDescription": "ملصقات NFC Tag 215 للبيع، عملية وسهلة الاستخدام لمختلف التطبيقات. السعر 200 دج للوحدة أو 1000 دج لـ 6 قطع. التوصيل متوفر لكل الولايات بـ 800 دج، ومجاني لضواحي براقي.",
           "longDescription": "نوفر لكم ملصقات NFC Tag 215 بجودة عالية، مناسبة للهواتف، الألعاب، والمشاريع التقنية. سهلة البرمجة والاستعمال، مثالية لعشاق التكنولوجيا. السعر 200 دج للوحدة، أو عرض خاص 6 قطع بـ 1000 دج. التوصيل متوفر لجميع ولايات الجزائر بسعر 800 دج، مع توصيل مجاني لضواحي براقي. اطلب الآن واستفد من العرض.",
           "previewImages": [
             "https://raw.githubusercontent.com/UltraboltDev/site-files/refs/heads/main/Products/NFC%20TAG%20STICKER/preview.png"
           ]
+        }
+      ]
     }
   ]
 }
-
-
-
