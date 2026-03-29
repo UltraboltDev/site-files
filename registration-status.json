@@ -1,6 +1,6 @@
 {
-  "isOpen": false,
-  "message": "التسجيلات مقفلة 🔒",
-  "startDate": "06 فيفري",
-  "availableSlots": 80
+  "isOpen": true,
+  "message": "التسجيلات مفتوحة 🔒",
+  "startDate": "03 افريل",
+  "availableSlots": 25
 }
